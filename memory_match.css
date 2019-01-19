@@ -1,0 +1,22 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url("memory/static/images/background11.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 105px;
+    height: 105px;
+    margin: 10px;
+    padding: 0px;
+    border: 2px solid black;
+}
+
+.container{
+    width: 800px;
+    display: inline-block;
+    margin: auto;
+}
